@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace store_project
+namespace store_project.view
 {
-    public partial class Form1 : Form
+    public partial class FormMain: Form
     {
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
         }
